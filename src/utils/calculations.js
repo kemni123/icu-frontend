@@ -81,7 +81,7 @@ export function estimateMortality(d) {
  * Returns { prediction: 0|1, probability: 0.0-1.0, patient_id }
  */
 export async function predictFromModel(formData) {
-  const response = await fetch('http://127.0.0.1:5001/predict', {
+  const response = await fetch('https://icu-backend.onrender.com/predict', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify(formData),
