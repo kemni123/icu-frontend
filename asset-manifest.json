@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/icu-frontend/static/css/main.4001ba71.css",
+    "main.js": "/icu-frontend/static/js/main.05e2c7af.js",
+    "index.html": "/icu-frontend/index.html",
+    "main.4001ba71.css.map": "/icu-frontend/static/css/main.4001ba71.css.map",
+    "main.05e2c7af.js.map": "/icu-frontend/static/js/main.05e2c7af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4001ba71.css",
+    "static/js/main.05e2c7af.js"
+  ]
+}
