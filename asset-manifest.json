@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/icu-frontend/static/css/main.4001ba71.css",
-    "main.js": "/icu-frontend/static/js/main.05e2c7af.js",
+    "main.css": "/icu-frontend/static/css/main.b8b94236.css",
+    "main.js": "/icu-frontend/static/js/main.19023d18.js",
     "index.html": "/icu-frontend/index.html",
-    "main.4001ba71.css.map": "/icu-frontend/static/css/main.4001ba71.css.map",
-    "main.05e2c7af.js.map": "/icu-frontend/static/js/main.05e2c7af.js.map"
+    "main.b8b94236.css.map": "/icu-frontend/static/css/main.b8b94236.css.map",
+    "main.19023d18.js.map": "/icu-frontend/static/js/main.19023d18.js.map"
   },
   "entrypoints": [
-    "static/css/main.4001ba71.css",
-    "static/js/main.05e2c7af.js"
+    "static/css/main.b8b94236.css",
+    "static/js/main.19023d18.js"
   ]
 }
